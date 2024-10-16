@@ -1,0 +1,6 @@
+# data.yaml
+train: /Users/bsid24082/Documents/IIQ/Honey3/images/train
+val: /Users/bsid24082/Documents/IIQ/Honey3/images/val
+
+nc: 3  # Number of classes
+names: ['Jar', 'partially_filled', 'full']  # Class names
